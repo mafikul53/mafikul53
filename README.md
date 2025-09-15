@@ -1,4 +1,6 @@
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME
+![GitHub Streak]
+
+(https://github-readme-streak-stats.herokuapp.com?user=mafikul53
 &theme=vue-dark
 &background=0D1117
 &ring=00FF99

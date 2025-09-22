@@ -1,9 +1,9 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=mafikul5320&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00FF99&text_color=FFFFFF&icon_color=00FF99)
+![Mafikul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mafikul5320&show_icons=true&title_color=00ff00&text_color=00ff00&icon_color=00ff00&bg_color=0d1117)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mafikul5320&theme=vue-dark&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mafikul5320&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideNums=00ff00&sideLabels=00ff00&dates=00ff00&background=0d1117)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mafikul5320&layout=compact&title_color=00ff00&text_color=00ff00&bg_color=0d1117)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mafikul5320&layout=compact&bg_color=0D1117&title_color=00FF99&text_color=FFFFFF)
 
 
 

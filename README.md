@@ -1,3 +1,6 @@
-![GitHub Streak](https://streak-stats.demolab.com?user=Mafikul5320&background=0D1117&border=39FF14&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=39FF14&dates=ffffff)
+![Mafikul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mafikul5320&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mafikul5320&layout=compact&theme=tokyonight)
+
 
 
